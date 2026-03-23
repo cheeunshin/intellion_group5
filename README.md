@@ -1,4 +1,4 @@
-# intellion_group5
+# intellion_O3
 
 한양대학교 전기공학과 인텔리온 동아리의 team O3 프로젝트 저장소입니다.
 
