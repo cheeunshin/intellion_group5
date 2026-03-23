@@ -1,6 +1,6 @@
 # intellion_group5
 
-한양대학교 전기공학과 인텔리온 동아리 프로젝트 저장소입니다.
+한양대학교 전기공학과 인텔리온 동아리의 team O3 프로젝트 저장소입니다.
 
 ## Team Members
 - 서유겸
@@ -24,3 +24,4 @@
 
 ## Notes
 프로젝트 관련 자료와 코드들은 지속적으로 업데이트될 예정입니다.
+<img width="2816" height="1536" alt="Gemini_Generated_Image_yqu6hfyqu6hfyqu6" src="https://github.com/user-attachments/assets/f4c6fa05-0030-47d1-a8c2-dd510c51b4ec" />
